@@ -4,11 +4,12 @@
   <parent>
     <groupId>org.nuxeo.ecm.platform</groupId>
     <artifactId>nuxeo-services-parent</artifactId>
-    <version>5.6.0-HF25-SNAPSHOT</version>
+    <version>5.6.0-HF24</version>
   </parent>
 
   <artifactId>nuxeo-platform-web-common</artifactId>
   <name>Nuxeo Common Web Framework</name>
+  <version>5.6.0-HF24-CKS1</version>
   <description>
    Provides common infrastructure for the different nuxeo web frontends (JSF/Seam and WebEngine)
   </description>
